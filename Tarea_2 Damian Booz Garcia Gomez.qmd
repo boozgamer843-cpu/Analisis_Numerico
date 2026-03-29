@@ -1,6 +1,6 @@
 ---
 title: "Tarea 2. Punto fijo y series de Taylor"
-author: "Nataly Pamela Ramírez Cano"
+author: "Damian Booz Garcia Gomez"
 lang: es
 format: 
   html:
